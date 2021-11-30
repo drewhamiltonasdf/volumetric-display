@@ -42,6 +42,7 @@ RotateControl controller(3, 5000);
 
 #define steps_per_rev 400
 
+    //int RPM = 2000;
     int RPM = 2000;
     float steps_per_sec;
 

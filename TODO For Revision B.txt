@@ -1,0 +1,9 @@
+
+
+TO-DO For Revision B Volumetric Display
+
+1) Hole to access RESET button on Teensy
+2) POGO pin connections to D+/D- on bottom of Teensy
+3) NO PUSH-CONNECTORS ... Pogo pins?
+4) Flat PCB slip ring
+5) Lateral adjustability for the positioning of the LCD. Maybe even front to back.
